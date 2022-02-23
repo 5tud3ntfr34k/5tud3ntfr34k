@@ -8,4 +8,8 @@ J'ai appris tous ce que je sais de façon autodidacte. J'ai principalement trava
 
 - Mes attentes envers le cours
 
-Je m'attend à la fin du cours à avoir tous les outils, les connaissances et les compétences nécessaires pour pouvoir créez de A à Z un programme complet peu importe la complexité, d'être en mesure de créez un programme complet à partir de mes idées et projets et d'avoir les informations nécessaires pour pouvoir continuer à apprendre et m'améliorer en allant dans la bonne direction.
+Je m'attend à être bien accompagner dans l'apprentissage, à obtenir des informations pertinentes, clairs, précises et utiles pour me permettre d'atteindre mes buts ultime ainsi que du support dans ma progression.
+
+- Vos attentes envers le programme
+
+Je m'attend à la fin du programme à avoir tous les outils, les connaissances et les compétences nécessaires pour pouvoir créez de A à Z un programme complet peu importe la complexité, d'être en mesure de créez un programme complet à partir de mes idées et projets et d'avoir les informations nécessaires pour pouvoir continuer à apprendre et m'améliorer en allant dans la bonne direction.
